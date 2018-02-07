@@ -1,0 +1,6 @@
+C:\Users\alunoct\Desktop\MiguelAmoedoLP2\TRABALHO 3C\estudo\estudo\bin\Debug\estudo.exe.config
+C:\Users\alunoct\Desktop\MiguelAmoedoLP2\TRABALHO 3C\estudo\estudo\obj\Debug\estudo.csprojResolveAssemblyReference.cache
+C:\Users\alunoct\Desktop\MiguelAmoedoLP2\TRABALHO 3C\estudo\estudo\bin\Debug\estudo.exe
+C:\Users\alunoct\Desktop\MiguelAmoedoLP2\TRABALHO 3C\estudo\estudo\bin\Debug\estudo.pdb
+C:\Users\alunoct\Desktop\MiguelAmoedoLP2\TRABALHO 3C\estudo\estudo\obj\Debug\estudo.exe
+C:\Users\alunoct\Desktop\MiguelAmoedoLP2\TRABALHO 3C\estudo\estudo\obj\Debug\estudo.pdb

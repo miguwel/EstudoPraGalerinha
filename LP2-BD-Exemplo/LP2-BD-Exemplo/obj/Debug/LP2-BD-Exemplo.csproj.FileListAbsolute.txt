@@ -1,0 +1,7 @@
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\Pessoal\LP2-BD-Exemplo\LP2-BD-Exemplo\bin\Debug\LP2-BD-Exemplo.exe.config
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\Pessoal\LP2-BD-Exemplo\LP2-BD-Exemplo\bin\Debug\LP2-BD-Exemplo.exe
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\Pessoal\LP2-BD-Exemplo\LP2-BD-Exemplo\bin\Debug\LP2-BD-Exemplo.pdb
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\Pessoal\LP2-BD-Exemplo\LP2-BD-Exemplo\bin\Debug\MySql.Data.dll
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\Pessoal\LP2-BD-Exemplo\LP2-BD-Exemplo\obj\Debug\LP2-BD-Exemplo.csprojResolveAssemblyReference.cache
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\Pessoal\LP2-BD-Exemplo\LP2-BD-Exemplo\obj\Debug\LP2-BD-Exemplo.exe
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\Pessoal\LP2-BD-Exemplo\LP2-BD-Exemplo\obj\Debug\LP2-BD-Exemplo.pdb

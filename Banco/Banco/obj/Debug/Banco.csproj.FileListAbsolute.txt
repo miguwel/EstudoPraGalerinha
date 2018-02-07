@@ -1,0 +1,12 @@
+C:\Users\alunoct\Desktop\MiguelAmoedoLP2\TRABALHO 3C\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\alunoct\Desktop\MiguelAmoedoLP2\TRABALHO 3C\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\alunoct\Desktop\MiguelAmoedoLP2\TRABALHO 3C\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\alunoct\Desktop\MiguelAmoedoLP2\TRABALHO 3C\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\alunoct\Desktop\MiguelAmoedoLP2\TRABALHO 3C\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\alunoct\Desktop\MiguelAmoedoLP2\TRABALHO 3C\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\TRABALHO 3C\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\TRABALHO 3C\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\TRABALHO 3C\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\TRABALHO 3C\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\TRABALHO 3C\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\alunoct\Desktop\aviario\MiguelAmoedoLP2\TRABALHO 3C\Banco\Banco\obj\Debug\Banco.pdb
